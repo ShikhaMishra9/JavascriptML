@@ -9,9 +9,6 @@ Machine Learning and AI experiments using Node.js as server, **client-side JavaS
 
 All the important stuff is client side and is in the ../public/javascripts/ folder, Node.js is only used as a server and to retreive data from MongoDB.
 
-#### Why do I need it?
-You really don't. This is meant to be just an experiment or simply practice, and there are a lot of libraries for machine learning out there that are way better then this one.
-
 
 ## Implemented algorithms
 * a simple C4.5
@@ -23,10 +20,10 @@ You really don't. This is meant to be just an experiment or simply practice, and
 ***
 
 ##Installation
-To use the main functions you really just need a browser and the stuff in the ../public/javascripts/ folder.
+To use the main functions we really just need a browser and the stuff in the ../public/javascripts/ folder.
 Just give it a data set in JSON format (se demo.js or tests.html for some examples).
 
-For server and database functions you must first install [Node.js](https://nodejs.org/) and [MongoDB](https://www.mongodb.org/).
+For server and database functions we must first install [Node.js](https://nodejs.org/) and [MongoDB](https://www.mongodb.org/).
 Then simply open a terminal and run this command:
 ```bash
 cd /your/path/to/Machine-Learning-JS/
@@ -34,7 +31,7 @@ npm install
 ```
 It has to be done only the first time in order to install the required modules.
 
-Then you should run one of those commands in a terminal (depending on your OS):
+Then  run one of those commands in a terminal (depending on your OS):
 ```bash
 #(Unix)
 /your/path/to/mongod --dbpath /your/path/to/Machine-Learning-JS/data
