@@ -41,6 +41,7 @@ Then you should run one of those commands in a terminal (depending on your OS):
 ```
 ```command
 ::(Windows)
+
 "Drive:\your\path\to\mongod.exe" --dbpath "Drive:\your\path\to\Machine-Learning-JS\data"
 ```
 And this one in another terminal to start the server (of course current directory has to be the project folder again):
