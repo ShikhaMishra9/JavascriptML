@@ -54,4 +54,9 @@ Some important libraries:
 
 http://caza.la/synaptic/#/
 https://brain.js.org/#/
+https://www.tensorflow.org/js
+http://stevenmiller888.github.io/mindjs.net/
+https://cs.stanford.edu/people/karpathy/convnetjs/
+https://ml5js.org/
+
 
