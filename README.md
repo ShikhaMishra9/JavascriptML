@@ -49,3 +49,9 @@ npm start
 Finally go to [localhost:3000](http://localhost:3000) in your browser and wait for the data to be loaded (it may take a while depending on your hardware).
 
 ***
+
+Some important libraries:
+
+http://caza.la/synaptic/#/
+https://brain.js.org/#/
+
