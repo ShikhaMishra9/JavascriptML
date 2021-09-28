@@ -53,10 +53,15 @@ Finally go to [localhost:3000](http://localhost:3000) in your browser and wait f
 Some important libraries:
 
 http://caza.la/synaptic/#/
+
 https://brain.js.org/#/
+
 https://www.tensorflow.org/js
+
 http://stevenmiller888.github.io/mindjs.net/
+
 https://cs.stanford.edu/people/karpathy/convnetjs/
+
 https://ml5js.org/
 
 
